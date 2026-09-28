@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790598170765,
+      "tag": "0000_breezy_jack_murdock",
+      "breakpoints": true
+    }
+  ]
 }
